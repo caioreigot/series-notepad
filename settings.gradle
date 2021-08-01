@@ -1,0 +1,2 @@
+rootProject.name = "Series Notepad"
+include ':app'

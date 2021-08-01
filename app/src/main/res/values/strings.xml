@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Series Notepad</string>
+
+    <string name="snack_bar_deleted_text">Item removido</string>
+    <string name="snack_bar_undo">DESFAZER</string>
+    <string name="add_caps_lock">ADICIONAR</string>
+    <string name="save_caps_lock">SALVAR</string>
+    <string name="fill_all_fields_message">Por favor, preencha todos os campos</string>
+
+    <string name="name">Nome:</string>
+    <string name="episode">Episódio:</string>
+</resources>
